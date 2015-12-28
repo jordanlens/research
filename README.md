@@ -1,3 +1,5 @@
+<img style="float: right" src="figures/usaidlens.png" width="20%">
+
 # Research at USAID LENS
 
 A collection of open data and open research by the [USAID Jordan Local Enterprise Support Project](http://www.jordanlens.org).
