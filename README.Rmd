@@ -1,7 +1,7 @@
 ---
 output: 
-  html_document: 
-    keep_md: yes
+  md_document:
+    variant: markdown_github
 ---
 
 <a href="http://www.jordanlens.org" target="_blank"><img src="figures/LENSheader.png" width="100%"></a>
@@ -80,7 +80,7 @@ gov <- data.frame(Governorate = c("Amman", "Aqaba", "Irbid", "Karak", "Tafilah",
          `Version (MD5 checksums)` = paste(get_info(rel_path(Governorate, lang = "English"))[["md5"]],
             get_info(rel_path(Governorate, lang = "Arabic"), name = "Arabic", color = "red")[["md5"]]))
 
-kable(gov, format = "html")
+kable(gov)
 ```
 
 <i>NB: As USAID LENS aims to serve lesser-advantaged communitities in Jordan, "Amman" governorate excludes the Greater Amman Municipality (GAM) in the MSE survey, and "Aqaba" governorate excludes the ASEZA free-zone.</i>
