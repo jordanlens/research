@@ -1,6 +1,6 @@
 <img src="figures/LENSheader.png" width="100%">
 
-# Research at USAID LENS
+# Research & Open Data
 
 A collection of open data and open research by the [USAID Jordan Local Enterprise Support Project](http://www.jordanlens.org).
 
