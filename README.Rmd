@@ -14,11 +14,11 @@ A collection of open data and open research by the [USAID Jordan Local Enterpris
 
 ## Infographics & Posters
 
-* MSE Survey Methodology ![coming soon]
-* General Profile ![coming soon]
-* Informal Businesses ![coming soon]
-* Mains MSE Sectors ![coming soon]
-* Gender Dimensions ![coming soon]
+* MSE Survey Methodology [coming soon]
+* General Profile [coming soon]
+* Informal Businesses [coming soon]
+* Mains MSE Sectors [coming soon]
+* Gender Dimensions [coming soon]
 
 ## Dashboards
 
@@ -29,10 +29,10 @@ USAID LENS develops dashboards available online on [Tableau Public](http://publi
 Our infographics:
 
 * [General Survey Results](http://public.tableau.com/profile/usaidlens#!/vizhome/CT_7/Categorical_EN)
-* Memberships ![coming soon]
+* Memberships [coming soon]
 * [Resource Use](http://public.tableau.com/profile/usaidlens#!/vizhome/BETAResourceUse/ResourceUse_EN)
-* Financial Performance ![coming soon]
-* MSE Sectors ![coming soon]
+* Financial Performance [coming soon]
+* MSE Sectors [coming soon]
 
 
 ## Static Reports
