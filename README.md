@@ -33,17 +33,15 @@ Our infographics:
 
 | Governorate  | English | Arabic | Version History |
 |--------------|---------|--------|-----------------|
-| Amman[^amm]  |  [PDF](outputs/reports/gov_summaries/Summary Report - Amman (English).pdf) | _coming soon_ |   |
-| Aqaba[^aqb]  | [PDF](outputs/reports/gov_summaries/Summary Report - Aqaba (English).pdf) | [PDF](outputs/reports/gov_summaries/Summary Report - Aqaba (Arabic).pdf) |   |
+| Amman<sup>[1](#f1)</sup> |  [PDF](outputs/reports/gov_summaries/Summary Report - Amman (English).pdf) | _coming soon_ |   |
+| Aqaba<sup>[2](#f1)</sup>  | [PDF](outputs/reports/gov_summaries/Summary Report - Aqaba (English).pdf) | [PDF](outputs/reports/gov_summaries/Summary Report - Aqaba (Arabic).pdf) |   |
 | Irbid        | [PDF](outputs/reports/gov_summaries/Summary Report - Irbid (English).pdf) | _coming soon_ |    |
 | Karak        | [PDF](outputs/reports/gov_summaries/Summary Report - Karak (English).pdf) | [PDF](outputs/reports/gov_summaries/Summary Report - Karak (Arabic).pdf) |   |
 | Tafilah      | [PDF](outputs/reports/gov_summaries/Summary Report - Tafilah (English).pdf) | [PDF](outputs/reports/gov_summaries/Summary Report - Tafilah (Arabic).pdf) |   |
 | Zarqa        | [PDF](outputs/reports/gov_summaries/Summary Report - Zarqa (English).pdf) | _coming soon_ |   |
 
 
-[^amm]: As USAID LENS aims to serve lesser-advantaged communitities in Jordan, "Amman" governorate excludes the Greater Amman Municipality (GAM) for the purposes of the MSE survey.
-
-[^aqb]: "Aqaba" governorate excludes the ASEZA free-zone.
+<i><small><a name="f1">1, 2</a>: As USAID LENS aims to serve lesser-advantaged communitities in Jordan, "Amman" governorate excludes the Greater Amman Municipality (GAM) in the MSE survey, and "Aqaba" governorate excludes the ASEZA free-zone. </small></i>
 
 ### Issue-Snapshots
 
@@ -57,7 +55,7 @@ USAID LENS believes in open and access to its MSE research. As the mainstay of i
 ## MSE Survey
 
 
-### Other Open-Data Repositories
+### Open-Data Repositories
 
 Additionally to being able to download the data via github, the MSE Survey will be made available on [figshare open data repository](https://figshare.com/) for greater dissemination among the scientific community. 
 
@@ -67,7 +65,6 @@ To cite the MSE Survey in publications use:
 
 > USAID Jordan Local Enterprise Support Project (2015). "Survey of Jordanian Micro- and Small-Enterprises."
   version 2.2.0. <http://www.jordanlens.org>
-
 
 
 [coming soon]: data:image/gif;base64,R0lGODlhPwAKALMAABsUZP///3ZyovDv9YWCrDkzecLA1tHQ4FhTjaShweHg6mdimElDg5WRtyokbrOxyyH5BAAAAAAALAAAAAA/AAoAAATgEMhJq7046827/1hxBAMBJEFgFAASLMBCkkBgMkHjPKQwEakGgDE6MCSoQEJiG+YmCsMClRgIFgdFLHAAjGSmFEMQ2CkQAsTEJhgAogKD+6EQCBSPWmBclrgcEgUBPgCCCEA2KUA+KVYBNT4OLBIGOQ4uLIaDEmR6jhOYa4SGDQOVcg2bgwMpNTCpkwAEAwehmoSdq61QBwsEB1VXWQAPtQEIB5UEDoM4jwYKvntIh49RC9AnVm0JzALOFCIkQkkrNQYTlePTQAAOlQoBk0km4gfzKUupR+0g/v8AAwoEEQEAOw==
