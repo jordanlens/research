@@ -1,3 +1,8 @@
+---
+output: 
+  html_document: 
+    keep_md: yes
+---
 
 <a href="http://www.jordanlens.org" target="_blank"><img src="figures/LENSheader.png" width="100%"></a>
 
@@ -32,15 +37,49 @@ Our infographics:
 
 ### Governorate Reports
 
+```{r, echo=FALSE, message=FALSE}
+library(dplyr, warn.conflicts = FALSE)
+md5shield <- function(files, name = "MD5", color = "blue", dir = file.path("~", "Documents", "Work", "research")){
+  out <- NULL
+  for(file in files){
+    md5 <- substr(digest::digest(file = file.path(dir, file)), 1, 10)
+    shield <- paste0("https://img.shields.io/badge/", name, "-", md5,"-", color, ".svg")
+    out <- c(out, paste0("![", md5, "](", shield, ")"))
+  }
+  out
+}
 
-Governorate   English                                                                       Arabic                                                                       Version (MD5 checksums)                                                                                                                       
-------------  ----------------------------------------------------------------------------  ---------------------------------------------------------------------------  ----------------------------------------------------------------------------------------------------------------------------------------------
-Amman         [PDF](outputs/reports/gov_summaries/Summary Report - Amman (English).pdf)     _coming soon_                                                                ![68f83ecd18](https://img.shields.io/badge/English-68f83ecd18-blue.svg)                                                                       
-Aqaba         [PDF](outputs/reports/gov_summaries/Summary Report - Aqaba (English).pdf)     [PDF](outputs/reports/gov_summaries/Summary Report - Aqaba (Arabic).pdf)     ![cc7939943f](https://img.shields.io/badge/English-cc7939943f-blue.svg) ![f15df54c55](https://img.shields.io/badge/Arabic-f15df54c55-red.svg) 
-Irbid         [PDF](outputs/reports/gov_summaries/Summary Report - Irbid (English).pdf)     _coming soon_                                                                ![ae7efd66b5](https://img.shields.io/badge/English-ae7efd66b5-blue.svg)                                                                       
-Karak         [PDF](outputs/reports/gov_summaries/Summary Report - Karak (English).pdf)     [PDF](outputs/reports/gov_summaries/Summary Report - Karak (Arabic).pdf)     ![42478ef571](https://img.shields.io/badge/English-42478ef571-blue.svg) ![eef320941c](https://img.shields.io/badge/Arabic-eef320941c-red.svg) 
-Tafilah       [PDF](outputs/reports/gov_summaries/Summary Report - Tafilah (English).pdf)   [PDF](outputs/reports/gov_summaries/Summary Report - Tafilah (Arabic).pdf)   ![732f34c1c3](https://img.shields.io/badge/English-732f34c1c3-blue.svg) ![6199434839](https://img.shields.io/badge/Arabic-6199434839-red.svg) 
-Zarqa         [PDF](outputs/reports/gov_summaries/Summary Report - Zarqa (English).pdf)     _coming soon_                                                                ![7cea46a450](https://img.shields.io/badge/English-7cea46a450-blue.svg)                                                                       
+rel_path <- function(area, lang){
+  names  <- paste0("Summary Report - ", area, " (", lang, ").pdf")
+  file.path("outputs", "reports", "gov_summaries", names)
+}
+
+get_info <- function(paths, proj = file.path("~", "Documents", "Work", "research"), 
+                     name = "English", color = "blue"){
+  # add relative paths
+  p <- list(path = paths)
+  index <- which(file.exists(file.path(proj, paths)))
+  
+  # add md5
+  p$md5 <- rep("", length(p$path))
+  p$md5[index] <- md5shield(p$path[index], name = name, color = color)
+  
+  # convert to markdown links
+  p$pdf <- rep("_coming soon_", length(p$path))
+  p$pdf[index] <- paste0("[PDF](", p$path[index],") ")
+  
+  p
+}
+
+
+gov <- data.frame(Governorate = c("Amman", "Aqaba", "Irbid", "Karak", "Tafilah", "Zarqa")) %>%
+  mutate(English = get_info(rel_path(Governorate, lang = "English"))[["pdf"]],
+         Arabic = get_info(rel_path(Governorate, lang = "Arabic"))[["pdf"]],
+         `Version (MD5 checksums)` = paste(get_info(rel_path(Governorate, lang = "English"))[["md5"]],
+            get_info(rel_path(Governorate, lang = "Arabic"), name = "Arabic", color = "red")[["md5"]]))
+
+knitr::kable(gov)
+```
 
 <i>NB: As USAID LENS aims to serve lesser-advantaged communitities in Jordan, "Amman" governorate excludes the Greater Amman Municipality (GAM) in the MSE survey, and "Aqaba" governorate excludes the ASEZA free-zone.</i>
 
