@@ -1,3 +1,11 @@
+-   [Research & Open Data](#research-open-data)
+    -   [Infographics & Posters](#infographics-posters)
+    -   [Dashboards](#dashboards)
+    -   [Static Reports](#static-reports)
+-   [Open Data](#open-data)
+    -   [Open-Data Repositories](#open-data-repositories)
+    -   [Citing the MSE Survey](#citing-the-mse-survey)
+
 <a href="http://www.jordanlens.org" target="_blank"><img src="figures/LENSheader.png" width="100%"></a>
 
 Research & Open Data
@@ -55,14 +63,13 @@ Open Data
 
 USAID LENS believes in open and access to its MSE research. As the mainstay of its technical research, the 2014-15 survey of micro- and small-enterprises (MSE survey) falls at the heart of this initiative.
 
-MSE Survey
-----------
-
-### Open-Data Repositories
+Open-Data Repositories
+----------------------
 
 Additionally to being able to download the data via github, the MSE Survey will be made available on [figshare open data repository](https://figshare.com/) for greater dissemination among the scientific community.
 
-### Citing the MSE Survey
+Citing the MSE Survey
+---------------------
 
 To cite the MSE Survey in publications use:
 
