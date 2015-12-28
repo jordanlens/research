@@ -12,7 +12,7 @@ A collection of open data and open research by the [USAID Jordan Local Enterpris
 
 ## Dashboards
 
-<a href="http://public.tableau.com/profile/usaidlens"><img style="float: right" src="figures/dashboard_icons.png" width="40%"></a>
+<a href="http://public.tableau.com/profile/usaidlens" target="_blank"><img style="float: right" src="figures/dashboard_icons.png" width="40%"></a>
 
 USAID LENS develops dashboards available online on [Tableau Public](http://public.tableau.com/profile/usaidlens). These are meant to be interactive and engaging tools that quick quick access to the results of the survey.
 
