@@ -1,4 +1,4 @@
-<img style="float: right" src="figures/usaidlens.png" width="20%">
+<img src="figures/LENSheader.png" width="100%">
 
 # Research at USAID LENS
 
@@ -6,11 +6,11 @@ A collection of open data and open research by the [USAID Jordan Local Enterpris
 
 ## Infographics & Posters
 
-* MSE Survey Methodology [coming soon]
-* General Profile [coming soon]
-* Informal Businesses [coming soon]
-* Mains MSE Sectors [coming soon]
-* Gender Dimensions [coming soon]
+* MSE Survey Methodology ![coming soon]
+* General Profile ![coming soon]
+* Informal Businesses ![coming soon]
+* Mains MSE Sectors ![coming soon]
+* Gender Dimensions ![coming soon]
 
 ## Dashboards
 
@@ -21,10 +21,10 @@ USAID LENS develops dashboards available online on [Tableau Public](http://publi
 Our infographics:
 
 * [General Survey Results](http://public.tableau.com/profile/usaidlens#!/vizhome/CT_7/Categorical_EN)
-* Memberships [coming soon]
+* Memberships ![coming soon]
 * [Resource Use](http://public.tableau.com/profile/usaidlens#!/vizhome/BETAResourceUse/ResourceUse_EN)
-* Financial Performance [coming soon]
-* MSE Sectors [coming soon]
+* Financial Performance ![coming soon]
+* MSE Sectors ![coming soon]
 
 
 ## Static Reports
@@ -33,12 +33,12 @@ Our infographics:
 
 | Governorate  | English | Arabic | Version History |
 |--------------|---------|--------|-----------------|
-| Amman[^amm]  |  [PDF](outputs/reports/gov_summaries/Summary Report - Amman (English).pdf) | [coming soon] |   |
+| Amman[^amm]  |  [PDF](outputs/reports/gov_summaries/Summary Report - Amman (English).pdf) | _coming soon_ |   |
 | Aqaba[^aqb]  | [PDF](outputs/reports/gov_summaries/Summary Report - Aqaba (English).pdf) | [PDF](outputs/reports/gov_summaries/Summary Report - Aqaba (Arabic).pdf) |   |
-| Irbid        | [PDF](outputs/reports/gov_summaries/Summary Report - Irbid (English).pdf) | [coming soon] |    |
+| Irbid        | [PDF](outputs/reports/gov_summaries/Summary Report - Irbid (English).pdf) | _coming soon_ |    |
 | Karak        | [PDF](outputs/reports/gov_summaries/Summary Report - Karak (English).pdf) | [PDF](outputs/reports/gov_summaries/Summary Report - Karak (Arabic).pdf) |   |
 | Tafilah      | [PDF](outputs/reports/gov_summaries/Summary Report - Tafilah (English).pdf) | [PDF](outputs/reports/gov_summaries/Summary Report - Tafilah (Arabic).pdf) |   |
-| Zarqa        | [PDF](outputs/reports/gov_summaries/Summary Report - Zarqa (English).pdf) | [coming soon] |   |
+| Zarqa        | [PDF](outputs/reports/gov_summaries/Summary Report - Zarqa (English).pdf) | _coming soon_ |   |
 
 
 [^amm]: As USAID LENS aims to serve lesser-advantaged communitities in Jordan, "Amman" governorate excludes the Greater Amman Municipality (GAM) for the purposes of the MSE survey.
@@ -68,3 +68,6 @@ To cite the MSE Survey in publications use:
 > USAID Jordan Local Enterprise Support Project (2015). "Survey of Jordanian Micro- and Small-Enterprises."
   version 2.2.0. <http://www.jordanlens.org>
 
+
+
+[coming soon]: data:image/gif;base64,R0lGODlhPwAKALMAABsUZP///3ZyovDv9YWCrDkzecLA1tHQ4FhTjaShweHg6mdimElDg5WRtyokbrOxyyH5BAAAAAAALAAAAAA/AAoAAATgEMhJq7046827/1hxBAMBJEFgFAASLMBCkkBgMkHjPKQwEakGgDE6MCSoQEJiG+YmCsMClRgIFgdFLHAAjGSmFEMQ2CkQAsTEJhgAogKD+6EQCBSPWmBclrgcEgUBPgCCCEA2KUA+KVYBNT4OLBIGOQ4uLIaDEmR6jhOYa4SGDQOVcg2bgwMpNTCpkwAEAwehmoSdq61QBwsEB1VXWQAPtQEIB5UEDoM4jwYKvntIh49RC9AnVm0JzALOFCIkQkkrNQYTlePTQAAOlQoBk0km4gfzKUupR+0g/v8AAwoEEQEAOw==
