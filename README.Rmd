@@ -39,6 +39,8 @@ Our infographics:
 
 ```{r, echo=FALSE, message=FALSE}
 library(dplyr, warn.conflicts = FALSE)
+library(knitr)
+
 md5shield <- function(files, name = "MD5", color = "blue", dir = file.path("~", "Documents", "Work", "research")){
   out <- NULL
   for(file in files){
@@ -78,7 +80,7 @@ gov <- data.frame(Governorate = c("Amman", "Aqaba", "Irbid", "Karak", "Tafilah",
          `Version (MD5 checksums)` = paste(get_info(rel_path(Governorate, lang = "English"))[["md5"]],
             get_info(rel_path(Governorate, lang = "Arabic"), name = "Arabic", color = "red")[["md5"]]))
 
-knitr::kable(gov)
+kable(gov, format = "html")
 ```
 
 <i>NB: As USAID LENS aims to serve lesser-advantaged communitities in Jordan, "Amman" governorate excludes the Greater Amman Municipality (GAM) in the MSE survey, and "Aqaba" governorate excludes the ASEZA free-zone.</i>

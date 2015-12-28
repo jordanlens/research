@@ -32,15 +32,54 @@ Our infographics:
 
 ### Governorate Reports
 
-
-Governorate   English                                                                       Arabic                                                                       Version (MD5 checksums)                                                                                                                       
-------------  ----------------------------------------------------------------------------  ---------------------------------------------------------------------------  ----------------------------------------------------------------------------------------------------------------------------------------------
-Amman         [PDF](outputs/reports/gov_summaries/Summary Report - Amman (English).pdf)     _coming soon_                                                                ![68f83ecd18](https://img.shields.io/badge/English-68f83ecd18-blue.svg)                                                                       
-Aqaba         [PDF](outputs/reports/gov_summaries/Summary Report - Aqaba (English).pdf)     [PDF](outputs/reports/gov_summaries/Summary Report - Aqaba (Arabic).pdf)     ![cc7939943f](https://img.shields.io/badge/English-cc7939943f-blue.svg) ![f15df54c55](https://img.shields.io/badge/Arabic-f15df54c55-red.svg) 
-Irbid         [PDF](outputs/reports/gov_summaries/Summary Report - Irbid (English).pdf)     _coming soon_                                                                ![ae7efd66b5](https://img.shields.io/badge/English-ae7efd66b5-blue.svg)                                                                       
-Karak         [PDF](outputs/reports/gov_summaries/Summary Report - Karak (English).pdf)     [PDF](outputs/reports/gov_summaries/Summary Report - Karak (Arabic).pdf)     ![42478ef571](https://img.shields.io/badge/English-42478ef571-blue.svg) ![eef320941c](https://img.shields.io/badge/Arabic-eef320941c-red.svg) 
-Tafilah       [PDF](outputs/reports/gov_summaries/Summary Report - Tafilah (English).pdf)   [PDF](outputs/reports/gov_summaries/Summary Report - Tafilah (Arabic).pdf)   ![732f34c1c3](https://img.shields.io/badge/English-732f34c1c3-blue.svg) ![6199434839](https://img.shields.io/badge/Arabic-6199434839-red.svg) 
-Zarqa         [PDF](outputs/reports/gov_summaries/Summary Report - Zarqa (English).pdf)     _coming soon_                                                                ![7cea46a450](https://img.shields.io/badge/English-7cea46a450-blue.svg)                                                                       
+<table>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Governorate </th>
+   <th style="text-align:left;"> English </th>
+   <th style="text-align:left;"> Arabic </th>
+   <th style="text-align:left;"> Version (MD5 checksums) </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> Amman </td>
+   <td style="text-align:left;"> [PDF](outputs/reports/gov_summaries/Summary Report - Amman (English).pdf) </td>
+   <td style="text-align:left;"> _coming soon_ </td>
+   <td style="text-align:left;"> ![68f83ecd18](https://img.shields.io/badge/English-68f83ecd18-blue.svg) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Aqaba </td>
+   <td style="text-align:left;"> [PDF](outputs/reports/gov_summaries/Summary Report - Aqaba (English).pdf) </td>
+   <td style="text-align:left;"> [PDF](outputs/reports/gov_summaries/Summary Report - Aqaba (Arabic).pdf) </td>
+   <td style="text-align:left;"> ![cc7939943f](https://img.shields.io/badge/English-cc7939943f-blue.svg) ![f15df54c55](https://img.shields.io/badge/Arabic-f15df54c55-red.svg) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Irbid </td>
+   <td style="text-align:left;"> [PDF](outputs/reports/gov_summaries/Summary Report - Irbid (English).pdf) </td>
+   <td style="text-align:left;"> _coming soon_ </td>
+   <td style="text-align:left;"> ![ae7efd66b5](https://img.shields.io/badge/English-ae7efd66b5-blue.svg) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Karak </td>
+   <td style="text-align:left;"> [PDF](outputs/reports/gov_summaries/Summary Report - Karak (English).pdf) </td>
+   <td style="text-align:left;"> [PDF](outputs/reports/gov_summaries/Summary Report - Karak (Arabic).pdf) </td>
+   <td style="text-align:left;"> ![42478ef571](https://img.shields.io/badge/English-42478ef571-blue.svg) ![eef320941c](https://img.shields.io/badge/Arabic-eef320941c-red.svg) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Tafilah </td>
+   <td style="text-align:left;"> [PDF](outputs/reports/gov_summaries/Summary Report - Tafilah (English).pdf) </td>
+   <td style="text-align:left;"> [PDF](outputs/reports/gov_summaries/Summary Report - Tafilah (Arabic).pdf) </td>
+   <td style="text-align:left;"> ![732f34c1c3](https://img.shields.io/badge/English-732f34c1c3-blue.svg) ![6199434839](https://img.shields.io/badge/Arabic-6199434839-red.svg) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Zarqa </td>
+   <td style="text-align:left;"> [PDF](outputs/reports/gov_summaries/Summary Report - Zarqa (English).pdf) </td>
+   <td style="text-align:left;"> _coming soon_ </td>
+   <td style="text-align:left;"> ![7cea46a450](https://img.shields.io/badge/English-7cea46a450-blue.svg) </td>
+  </tr>
+</tbody>
+</table>
 
 <i>NB: As USAID LENS aims to serve lesser-advantaged communitities in Jordan, "Amman" governorate excludes the Greater Amman Municipality (GAM) in the MSE survey, and "Aqaba" governorate excludes the ASEZA free-zone.</i>
 
