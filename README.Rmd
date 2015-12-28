@@ -8,7 +8,7 @@ output:
 
 <a href="http://www.jordanlens.org" target="_blank"><img src="figures/LENSheader.png" width="100%"></a>
 
-# Research & Open Data
+# Research & Data Visualization
 
 A collection of open data and open research by the [USAID Jordan Local Enterprise Support Project](http://www.jordanlens.org).
 
