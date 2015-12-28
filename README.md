@@ -1,4 +1,4 @@
-<img src="figures/LENSheader.png" width="100%">
+<a href="http://www.jordanlens.org" target="_blank"><img src="figures/LENSheader.png" width="100%"></a>
 
 # Research & Open Data
 
