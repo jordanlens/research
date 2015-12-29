@@ -1,11 +1,3 @@
--   [Research & Data Visualization](#research-data-visualization)
-    -   [Infographics & Posters](#infographics-posters)
-    -   [Dashboards](#dashboards)
-    -   [Static Reports](#static-reports)
--   [Open Data](#open-data)
-    -   [Open-Data Repositories](#open-data-repositories)
-    -   [Citing the MSE Survey](#citing-the-mse-survey)
-
 <a href="http://www.jordanlens.org" target="_blank"><img src="figures/LENSheader.png" width="100%"></a>
 
 Research & Data Visualization
@@ -16,11 +8,11 @@ A collection of open data and open research by the [USAID Jordan Local Enterpris
 Infographics & Posters
 ----------------------
 
--   MSE Survey Methodology [coming soon](data:image/gif;base64,R0lGODlhPwAKALMAABsUZP///3ZyovDv9YWCrDkzecLA1tHQ4FhTjaShweHg6mdimElDg5WRtyokbrOxyyH5BAAAAAAALAAAAAA/AAoAAATgEMhJq7046827/1hxBAMBJEFgFAASLMBCkkBgMkHjPKQwEakGgDE6MCSoQEJiG+YmCsMClRgIFgdFLHAAjGSmFEMQ2CkQAsTEJhgAogKD+6EQCBSPWmBclrgcEgUBPgCCCEA2KUA+KVYBNT4OLBIGOQ4uLIaDEmR6jhOYa4SGDQOVcg2bgwMpNTCpkwAEAwehmoSdq61QBwsEB1VXWQAPtQEIB5UEDoM4jwYKvntIh49RC9AnVm0JzALOFCIkQkkrNQYTlePTQAAOlQoBk0km4gfzKUupR+0g/v8AAwoEEQEAOw==)
--   General Profile [coming soon](data:image/gif;base64,R0lGODlhPwAKALMAABsUZP///3ZyovDv9YWCrDkzecLA1tHQ4FhTjaShweHg6mdimElDg5WRtyokbrOxyyH5BAAAAAAALAAAAAA/AAoAAATgEMhJq7046827/1hxBAMBJEFgFAASLMBCkkBgMkHjPKQwEakGgDE6MCSoQEJiG+YmCsMClRgIFgdFLHAAjGSmFEMQ2CkQAsTEJhgAogKD+6EQCBSPWmBclrgcEgUBPgCCCEA2KUA+KVYBNT4OLBIGOQ4uLIaDEmR6jhOYa4SGDQOVcg2bgwMpNTCpkwAEAwehmoSdq61QBwsEB1VXWQAPtQEIB5UEDoM4jwYKvntIh49RC9AnVm0JzALOFCIkQkkrNQYTlePTQAAOlQoBk0km4gfzKUupR+0g/v8AAwoEEQEAOw==)
--   Informal Businesses [coming soon](data:image/gif;base64,R0lGODlhPwAKALMAABsUZP///3ZyovDv9YWCrDkzecLA1tHQ4FhTjaShweHg6mdimElDg5WRtyokbrOxyyH5BAAAAAAALAAAAAA/AAoAAATgEMhJq7046827/1hxBAMBJEFgFAASLMBCkkBgMkHjPKQwEakGgDE6MCSoQEJiG+YmCsMClRgIFgdFLHAAjGSmFEMQ2CkQAsTEJhgAogKD+6EQCBSPWmBclrgcEgUBPgCCCEA2KUA+KVYBNT4OLBIGOQ4uLIaDEmR6jhOYa4SGDQOVcg2bgwMpNTCpkwAEAwehmoSdq61QBwsEB1VXWQAPtQEIB5UEDoM4jwYKvntIh49RC9AnVm0JzALOFCIkQkkrNQYTlePTQAAOlQoBk0km4gfzKUupR+0g/v8AAwoEEQEAOw==)
--   Mains MSE Sectors [coming soon](data:image/gif;base64,R0lGODlhPwAKALMAABsUZP///3ZyovDv9YWCrDkzecLA1tHQ4FhTjaShweHg6mdimElDg5WRtyokbrOxyyH5BAAAAAAALAAAAAA/AAoAAATgEMhJq7046827/1hxBAMBJEFgFAASLMBCkkBgMkHjPKQwEakGgDE6MCSoQEJiG+YmCsMClRgIFgdFLHAAjGSmFEMQ2CkQAsTEJhgAogKD+6EQCBSPWmBclrgcEgUBPgCCCEA2KUA+KVYBNT4OLBIGOQ4uLIaDEmR6jhOYa4SGDQOVcg2bgwMpNTCpkwAEAwehmoSdq61QBwsEB1VXWQAPtQEIB5UEDoM4jwYKvntIh49RC9AnVm0JzALOFCIkQkkrNQYTlePTQAAOlQoBk0km4gfzKUupR+0g/v8AAwoEEQEAOw==)
--   Gender Dimensions [coming soon](data:image/gif;base64,R0lGODlhPwAKALMAABsUZP///3ZyovDv9YWCrDkzecLA1tHQ4FhTjaShweHg6mdimElDg5WRtyokbrOxyyH5BAAAAAAALAAAAAA/AAoAAATgEMhJq7046827/1hxBAMBJEFgFAASLMBCkkBgMkHjPKQwEakGgDE6MCSoQEJiG+YmCsMClRgIFgdFLHAAjGSmFEMQ2CkQAsTEJhgAogKD+6EQCBSPWmBclrgcEgUBPgCCCEA2KUA+KVYBNT4OLBIGOQ4uLIaDEmR6jhOYa4SGDQOVcg2bgwMpNTCpkwAEAwehmoSdq61QBwsEB1VXWQAPtQEIB5UEDoM4jwYKvntIh49RC9AnVm0JzALOFCIkQkkrNQYTlePTQAAOlQoBk0km4gfzKUupR+0g/v8AAwoEEQEAOw==)
+-   MSE Survey Methodology \[coming soon\]
+-   General Profile \[coming soon\]
+-   Informal Businesses \[coming soon\]
+-   Mains MSE Sectors \[coming soon\]
+-   Gender Dimensions \[coming soon\]
 
 Dashboards
 ----------
@@ -32,10 +24,10 @@ USAID LENS develops dashboards available online on [Tableau Public](http://publi
 Our infographics:
 
 -   [General Survey Results](http://public.tableau.com/profile/usaidlens#!/vizhome/CT_7/Categorical_EN)
--   Memberships [coming soon](data:image/gif;base64,R0lGODlhPwAKALMAABsUZP///3ZyovDv9YWCrDkzecLA1tHQ4FhTjaShweHg6mdimElDg5WRtyokbrOxyyH5BAAAAAAALAAAAAA/AAoAAATgEMhJq7046827/1hxBAMBJEFgFAASLMBCkkBgMkHjPKQwEakGgDE6MCSoQEJiG+YmCsMClRgIFgdFLHAAjGSmFEMQ2CkQAsTEJhgAogKD+6EQCBSPWmBclrgcEgUBPgCCCEA2KUA+KVYBNT4OLBIGOQ4uLIaDEmR6jhOYa4SGDQOVcg2bgwMpNTCpkwAEAwehmoSdq61QBwsEB1VXWQAPtQEIB5UEDoM4jwYKvntIh49RC9AnVm0JzALOFCIkQkkrNQYTlePTQAAOlQoBk0km4gfzKUupR+0g/v8AAwoEEQEAOw==)
+-   Memberships \[coming soon\]
 -   [Resource Use](http://public.tableau.com/profile/usaidlens#!/vizhome/BETAResourceUse/ResourceUse_EN)
--   Financial Performance [coming soon](data:image/gif;base64,R0lGODlhPwAKALMAABsUZP///3ZyovDv9YWCrDkzecLA1tHQ4FhTjaShweHg6mdimElDg5WRtyokbrOxyyH5BAAAAAAALAAAAAA/AAoAAATgEMhJq7046827/1hxBAMBJEFgFAASLMBCkkBgMkHjPKQwEakGgDE6MCSoQEJiG+YmCsMClRgIFgdFLHAAjGSmFEMQ2CkQAsTEJhgAogKD+6EQCBSPWmBclrgcEgUBPgCCCEA2KUA+KVYBNT4OLBIGOQ4uLIaDEmR6jhOYa4SGDQOVcg2bgwMpNTCpkwAEAwehmoSdq61QBwsEB1VXWQAPtQEIB5UEDoM4jwYKvntIh49RC9AnVm0JzALOFCIkQkkrNQYTlePTQAAOlQoBk0km4gfzKUupR+0g/v8AAwoEEQEAOw==)
--   MSE Sectors [coming soon](data:image/gif;base64,R0lGODlhPwAKALMAABsUZP///3ZyovDv9YWCrDkzecLA1tHQ4FhTjaShweHg6mdimElDg5WRtyokbrOxyyH5BAAAAAAALAAAAAA/AAoAAATgEMhJq7046827/1hxBAMBJEFgFAASLMBCkkBgMkHjPKQwEakGgDE6MCSoQEJiG+YmCsMClRgIFgdFLHAAjGSmFEMQ2CkQAsTEJhgAogKD+6EQCBSPWmBclrgcEgUBPgCCCEA2KUA+KVYBNT4OLBIGOQ4uLIaDEmR6jhOYa4SGDQOVcg2bgwMpNTCpkwAEAwehmoSdq61QBwsEB1VXWQAPtQEIB5UEDoM4jwYKvntIh49RC9AnVm0JzALOFCIkQkkrNQYTlePTQAAOlQoBk0km4gfzKUupR+0g/v8AAwoEEQEAOw==)
+-   Financial Performance \[coming soon\]
+-   MSE Sectors \[coming soon\]
 
 Static Reports
 --------------
@@ -55,21 +47,34 @@ Static Reports
 
 ### Issue-Snapshots
 
--   Gender Dimensions of Micro- and Small-Enterprises in Jordan. [coming soon](data:image/gif;base64,R0lGODlhPwAKALMAABsUZP///3ZyovDv9YWCrDkzecLA1tHQ4FhTjaShweHg6mdimElDg5WRtyokbrOxyyH5BAAAAAAALAAAAAA/AAoAAATgEMhJq7046827/1hxBAMBJEFgFAASLMBCkkBgMkHjPKQwEakGgDE6MCSoQEJiG+YmCsMClRgIFgdFLHAAjGSmFEMQ2CkQAsTEJhgAogKD+6EQCBSPWmBclrgcEgUBPgCCCEA2KUA+KVYBNT4OLBIGOQ4uLIaDEmR6jhOYa4SGDQOVcg2bgwMpNTCpkwAEAwehmoSdq61QBwsEB1VXWQAPtQEIB5UEDoM4jwYKvntIh49RC9AnVm0JzALOFCIkQkkrNQYTlePTQAAOlQoBk0km4gfzKUupR+0g/v8AAwoEEQEAOw==)
--   Main Sub-Sectors of Jordanian Micro- and Small-Enterprises. [coming soon](data:image/gif;base64,R0lGODlhPwAKALMAABsUZP///3ZyovDv9YWCrDkzecLA1tHQ4FhTjaShweHg6mdimElDg5WRtyokbrOxyyH5BAAAAAAALAAAAAA/AAoAAATgEMhJq7046827/1hxBAMBJEFgFAASLMBCkkBgMkHjPKQwEakGgDE6MCSoQEJiG+YmCsMClRgIFgdFLHAAjGSmFEMQ2CkQAsTEJhgAogKD+6EQCBSPWmBclrgcEgUBPgCCCEA2KUA+KVYBNT4OLBIGOQ4uLIaDEmR6jhOYa4SGDQOVcg2bgwMpNTCpkwAEAwehmoSdq61QBwsEB1VXWQAPtQEIB5UEDoM4jwYKvntIh49RC9AnVm0JzALOFCIkQkkrNQYTlePTQAAOlQoBk0km4gfzKUupR+0g/v8AAwoEEQEAOw==)
+-   Gender Dimensions of Micro- and Small-Enterprises in Jordan. \[coming soon\]
+-   Main Sub-Sectors of Jordanian Micro- and Small-Enterprises. \[coming soon\]
 
 Open Data
 =========
 
-USAID LENS believes in open and access to its MSE research. As the mainstay of its technical research, the 2014-15 survey of micro- and small-enterprises (MSE survey) falls at the heart of this initiative.
+MSE Survey
+----------
 
-Open-Data Repositories
-----------------------
+<a href="http://opendefinition.org/"><img src="http://assets.okfn.org/images/ok_buttons/od_80x15_red_green.png" alt="This material is Open Data" height="20" width="107" /></a> <a rel="license" href="http://opendatacommons.org/licenses/by/summary/"><img alt="Open Data Commons Attribution License v1.0" style="border-width:0" src="https://img.shields.io/badge/license-ODC--BY_1.0-blue.svg?style=flat-square" /></a> <a href="http://5stardata.info/en/"><img src="http://lab.linkeddata.deri.ie/2010/lod-badges/img/data-badge-5.png" alt="five star open Web data" /></a> <br />
 
-Additionally to being able to download the data via github, the MSE Survey will be made available on [figshare open data repository](https://figshare.com/) for greater dissemination among the scientific community.
+As the mainstay of its technical research, the 2014-15 survey of micro- and small-enterprises (MSE survey) is a valuable resource not only for USAID but also for government, other aid donors, and business service providers. A public release of the micro-data is made available by USAID LENS under the a [Open Data Commons Attribution License v1.0](http://opendatacommons.org/licenses/by/1.0/).
 
-Citing the MSE Survey
----------------------
+USAID LENS plans to obtain [open data certification](https://certificates.theodi.org/en/) from the Open Data Institute and be compliant with [5-star level of open-data](http://5stardata.info/en/).
+
+### Data Anonymization
+
+Ensuring confidentiality of survey participants is an important part of the research process and a core tenant of the [Common Rule](https://en.wikipedia.org/wiki/Common_Rule). Luckily, diclosure risk for most survey data is inherently low due to the fact that re-identification requires "respondent knowledge"-- that is, knowledge of whether a given individual participated in the study. Additionally, most questions asked in the MSE survey are fairly benign. Nonetheless, USAID LENS reviews the MSE survey has been put through *statistical disclosure control* (SDC) prior to public release. The process is designed to assess the confidentiality of the information that the project releases about people and businesses.
+
+Re-identification risk depends on a number of factors such as availability of match-able external data, sensitivity of given variables, technical skill of would-be intruders, as well as standalone and combinatorial identifiability of variables.
+
+In preparation for the public release of the data, variables that are more readily available or incriminating have either been removed from the public release, collapsed into larger classes, converted to categorical bins (for continuous variables). In order to balance utility with privacy, data has not been scrambled or noise-injected.
+
+### Open-Data Repositories
+
+Additionally to being able to download the data via github, the MSE Survey will be made available on [figshare](https://figshare.com/) and [dryad](http://datadryad.org/) for greater dissemination among the scientific community.
+
+### Citing the MSE Survey
 
 To cite the MSE Survey in publications use:
 
