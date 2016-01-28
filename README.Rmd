@@ -17,11 +17,18 @@ A collection of open data and open research by the [USAID Jordan Local Enterpris
 
 ## Infographics & Posters
 
-* MSE Survey Methodology [coming soon]
-* General Profile [coming soon]
-* Informal Businesses [coming soon]
-* Mains MSE Sectors [coming soon]
-* Gender Dimensions [coming soon]
+```{r, echo = FALSE, message=FALSE}
+ig <- expand.grid(lang = c("EN", "AR"),
+                  topic = c("General_Profile", "Survey_Mechanism",
+                  "Economic_Sectors", "Business_Registration"))
+path <- "outputs/infographics/MSE_Infographics_"
+ig <- dplyr::mutate(ig, link = paste0("[PDF](", path, topic, "_", lang, ".pdf), ",
+                               "[PNG](", path, topic, "_", lang, ".png)"))
+tab <- reshape2::dcast(topic~lang, data = ig)
+tab$topic <- gsub("_", " ", tab$topic)
+knitr::kable(tab)
+```
+
 
 ## Dashboards
 
@@ -46,7 +53,7 @@ Our infographics:
 library(dplyr, warn.conflicts = FALSE)
 library(knitr)
 
-md5shield <- function(files, name = "MD5", color = "blue", dir = file.path("~", "Documents", "Work", "research")){
+md5shield <- function(files, name = "MD5", color = "blue", dir = file.path("~", "research")){
   out <- NULL
   for(file in files){
     md5 <- substr(digest::digest(file = file.path(dir, file)), 1, 10)
@@ -61,7 +68,7 @@ rel_path <- function(area, lang){
   file.path("outputs", "reports", "gov_summaries", names)
 }
 
-get_info <- function(paths, proj = file.path("~", "Documents", "Work", "research"), 
+get_info <- function(paths, proj = file.path("~", "research"), 
                      name = "English", color = "blue"){
   # add relative paths
   p <- list(path = paths)

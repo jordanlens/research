@@ -8,11 +8,12 @@ A collection of open data and open research by the [USAID Jordan Local Enterpris
 Infographics & Posters
 ----------------------
 
--   MSE Survey Methodology \[coming soon\]
--   General Profile \[coming soon\]
--   Informal Businesses \[coming soon\]
--   Mains MSE Sectors \[coming soon\]
--   Gender Dimensions \[coming soon\]
+| topic                 | EN                                                                                                                                                   | AR                                                                                                                                                   |
+|:----------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| General Profile       | [PDF](outputs/infographics/MSE_Infographics_General_Profile_EN.pdf), [PNG](outputs/infographics/MSE_Infographics_General_Profile_EN.png)             | [PDF](outputs/infographics/MSE_Infographics_General_Profile_AR.pdf), [PNG](outputs/infographics/MSE_Infographics_General_Profile_AR.png)             |
+| Survey Mechanism      | [PDF](outputs/infographics/MSE_Infographics_Survey_Mechanism_EN.pdf), [PNG](outputs/infographics/MSE_Infographics_Survey_Mechanism_EN.png)           | [PDF](outputs/infographics/MSE_Infographics_Survey_Mechanism_AR.pdf), [PNG](outputs/infographics/MSE_Infographics_Survey_Mechanism_AR.png)           |
+| Economic Sectors      | [PDF](outputs/infographics/MSE_Infographics_Economic_Sectors_EN.pdf), [PNG](outputs/infographics/MSE_Infographics_Economic_Sectors_EN.png)           | [PDF](outputs/infographics/MSE_Infographics_Economic_Sectors_AR.pdf), [PNG](outputs/infographics/MSE_Infographics_Economic_Sectors_AR.png)           |
+| Business Registration | [PDF](outputs/infographics/MSE_Infographics_Business_Registration_EN.pdf), [PNG](outputs/infographics/MSE_Infographics_Business_Registration_EN.png) | [PDF](outputs/infographics/MSE_Infographics_Business_Registration_AR.pdf), [PNG](outputs/infographics/MSE_Infographics_Business_Registration_AR.png) |
 
 Dashboards
 ----------
